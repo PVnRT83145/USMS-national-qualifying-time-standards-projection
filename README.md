@@ -1,6 +1,8 @@
 # USMS-national-qualifying-time-standards-projection
 Determines qualifying times for upcoming USMS national championchip meets. The existing code is only intended to work for spring nationals (SCY)
 
+*The dependencies for each script should be at the start. There are no import statements in either script after the initial block if memory serves*
+
 **DISCLAIMER: I make no claims about the accuracy of these times. This is merely prediction and the times published by USMS will likely be near these times but may not neccessarily match**
 
 Run pull-times.py after initiating the virtual environment. This script is pretty slow. If you're running on a machine with less than 32 GB of RAM, then I'd consider tweaking the max_workers value on line 215
