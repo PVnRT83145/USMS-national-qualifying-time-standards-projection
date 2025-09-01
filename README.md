@@ -1,5 +1,6 @@
 # USMS-national-qualifying-time-standards-projection
 Determines qualifying times for upcoming USMS national championchip meets. The existing code is only intended to work for spring nationals (SCY)
+
 ***You'll need to install all of the required dependencies and create folders titled "results" and "data" but without the quotes in the same directory that you're running pull-times.py and nat-times.py from***
 
 *The dependencies for each script should be at the start. There are no import statements in either script after the initial block if memory serves*
